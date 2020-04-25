@@ -18,7 +18,7 @@ The password for the next level is stored in a file called **readme** located in
 
 1. current user name
 
-   > ![](/img/a_bandit/a_0_1/bandit0_1.jpg)
+   > ![](/img/a_vulnerable/a_otw/a_bandit/a_0_1/bandit0_1.jpg)
 
 
 
@@ -26,13 +26,13 @@ The password for the next level is stored in a file called **readme** located in
 
    > ls
    >
-   > ![ls](/img/a_bandit/a_0_1/ls.jpg)
+   > ![ls](/img/a_vulnerable/a_otw/a_bandit/a_0_1/ls.jpg)
 
 3. What's in **readme**
 
    > cat readme
    >
-   > ![cat](/img/a_bandit/a_0_1/cat.jpg)
+   > ![cat](/img/a_vulnerable/a_otw/a_bandit/a_0_1/cat.jpg)
 
 4. And we got it
 
