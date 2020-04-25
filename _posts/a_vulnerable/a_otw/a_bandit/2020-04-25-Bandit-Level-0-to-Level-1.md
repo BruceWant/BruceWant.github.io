@@ -40,4 +40,4 @@ The password for the next level is stored in a file called **readme** located in
 
 5. Finally, you can login to next level
 
-   **`ssh bandit0@bandit.labs.overthewire.org -p 2220`**
+   **`ssh bandit1@bandit.labs.overthewire.org -p 2220`**
